@@ -1,0 +1,3 @@
+interface dept {
+    void details();
+}

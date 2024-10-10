@@ -1,0 +1,3 @@
+interface subscriber {
+    void notification();
+}

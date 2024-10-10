@@ -1,0 +1,3 @@
+interface container {
+    iterator getiterator();
+}

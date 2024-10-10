@@ -1,0 +1,3 @@
+interface info {
+    void cosmeticDetails();
+}
